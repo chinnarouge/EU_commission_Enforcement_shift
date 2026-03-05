@@ -1,0 +1,31 @@
+article_id,year,sector,case_type,decision_stage,approval_rate,surprise_score
+ip_02_1651,2002,"Digital, Media & Electronic Communications",antitrust,Approval,0.03296703296703297,0.967032967032967
+ip_20_442,2020,"Digital, Media & Electronic Communications",antitrust,Approval,0.03296703296703297,0.967032967032967
+ip_21_2673,2021,"Digital, Media & Electronic Communications",antitrust,Approval,0.03296703296703297,0.967032967032967
+ip_09_1632,2009,Professional & Other Services,antitrust,Approval,0.041666666666666664,0.9583333333333334
+ip_20_618,2020,Pharmaceuticals & Health Services,antitrust,Approval,0.041666666666666664,0.9583333333333334
+ip_15_6187,2015,"Agriculture, Food & Fisheries",antitrust,Approval,0.05555555555555555,0.9444444444444444
+ip_14_299,2014,Energy & Environment,antitrust,Approval,0.06666666666666667,0.9333333333333333
+ip_10_445,2010,Energy & Environment,antitrust,Approval,0.06666666666666667,0.9333333333333333
+ip_02_1739,2002,Energy & Environment,antitrust,Approval,0.06666666666666667,0.9333333333333333
+ip_09_1226,2009,Energy & Environment,antitrust,Approval,0.06666666666666667,0.9333333333333333
+ip_16_2646,2016,Energy & Environment,antitrust,Approval,0.06666666666666667,0.9333333333333333
+ip_94_929,1994,Energy & Environment,antitrust,Approval,0.06666666666666667,0.9333333333333333
+ip_14_717,2014,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_07_1325,2007,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_14_196,2014,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_20_518,2020,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_11_1115,2011,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_16_1322,2016,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_94_789,1994,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_12_915,2012,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_18_5921,2018,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_08_1063,2008,Transport,antitrust,Approval,0.10989010989010989,0.8901098901098901
+ip_89_795,1989,Financial Services,merger,Investigation,0.87248322147651,0.87248322147651
+ip_07_1460,2007,Financial Services,merger,Investigation,0.87248322147651,0.87248322147651
+ip_00_634,2000,Financial Services,merger,Investigation,0.87248322147651,0.87248322147651
+ip_06_461,2006,Financial Services,merger,Conditional Approval,0.87248322147651,0.87248322147651
+ip_05_539,2005,Financial Services,merger,Investigation,0.87248322147651,0.87248322147651
+ip_07_1442,2007,Financial Services,merger,Conditional Approval,0.87248322147651,0.87248322147651
+ip_94_566,1994,Financial Services,merger,Conditional Approval,0.87248322147651,0.87248322147651
+ip_00_1338,2000,Financial Services,merger,Fine,0.87248322147651,0.87248322147651

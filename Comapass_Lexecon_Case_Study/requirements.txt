@@ -1,0 +1,11 @@
+py7zr
+mlxtend
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+matplotlib
+spacy
+beautifulsoup4
+networkx
